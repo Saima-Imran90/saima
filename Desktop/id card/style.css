@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    display: flex;
+}
+.container{
+    width: 20vw;
+    height:60vh ;
+    border-radius: 15px;
+    border: 1px solid black;
+margin: auto;
+margin-top: 10%;
+background-color: rgb(7, 97, 55);
+
+}
+.container2{
+    width: 20vw;
+    height:60vh ;
+    border-radius: 15px;
+    border: 1px solid black;
+margin: auto;
+margin-top: 10%;
+background-color: rgb(7, 97, 55);
+
+}
+
+h2{
+color: white;
+font-size: medium;
+font-family: "Barlow", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  margin-top: 8%;
+}
+h5{
+color: white;
+font-family: "Barlow", sans-serif;
+  font-weight:500;
+  font-style: normal;
+  text-align: center;
+  margin-top: 120%;
+}
+.main{
+    background-color:white ;
+    width: 20vw;
+    height:47vh ;
+    /* border: 1px solid black; */
+    margin-top:-24%;
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 0%;
+    
+}
+.txt{
+    color:  rgb(7, 97, 55);
+  font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.img{
+    margin-left: 35%;
+}
+.pic{
+    height:140vh ;
+    width:140vw ;
+    margin-left: -77%;
+    margin-top: 20%;
+}
+.pic>img{
+    border: 7px solid rgb(196, 137, 30);
+    border-radius: 80px;
+}
+.nam{
+    height:20% ;
+    width: 150%;
+    color:  rgb(7, 97, 55);
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    margin-top: 70%;
+    margin-left: -43%;
+
+}
+b{
+    color: white;
+}
+
+.p{
+    margin-left: 7% ;
+    margin-top: -10%;
+}
+.last{
+    display: flex;
+    margin-top: 95%;
+   justify-content: space-around;
+   margin-left: -20%;
+}
+.dat{
+    margin-left: -90%;
+    color:  rgb(7, 97, 55);
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+
+}
+span{
+    margin-top: 30%;
+}
+.sign{
+    margin-top: -30%;
+    margin-right: 10%;
+    font-family: "Barlow", sans-serif;
+  font-weight:500;
+  font-style: normal;
+  color:  rgb(7, 97, 55);
+  font-size: small;
+  font-weight: bolder;
+
+}
+
+.sign>img{
+   margin-top: 5%;
+}
+.mang{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.hr1{
+    border: 2px solid rgb(7, 97, 55);
+    width: 6vw;
+    margin-left: -4%;
+}
+
+.main2{
+    background-color:white ;
+    width: 20vw;
+    height:48vh ;
+    /* border: 1px solid black; */
+    margin-top: 17%;
+    margin-left: 0%;
+}
+.back{
+    color:  rgb(7, 97, 55);
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+   text-align: center;
+  
+}
+.bck{
+    color:  rgb(7, 97, 55);
+    font-family: "Barlow", sans-serif;
+    font-weight:800;
+    font-style: normal;
+    text-align: center;
+    font-size: small;
+    margin-top: 5%;
+}
+.im{
+    margin-left: 35%;
+}
+.hr2{
+    border: 3px solid rgb(7, 97, 55);
+    width: 10vw;
+    margin-left: -17%;
+}
+.end{
+    color:  rgb(7, 97, 55);
+    font-family: "Barlow", sans-serif;
+    font-weight:800;
+    font-style: normal;
+    text-align: center;
+    font-size: small;
+    margin-top: 2%;
+}
+h1{
+    color:  rgb(7, 97, 55);
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-align: center;
+    font-size: large;
+    letter-spacing: -1px;
+}
